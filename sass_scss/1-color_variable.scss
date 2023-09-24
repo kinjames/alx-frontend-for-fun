@@ -1,4 +1,9 @@
+$primary-color: #3d3d3d;
+
+body {
+  color: $primary-color;
+}
+
 p {
-  font-size: 20px;
-  display: flex;
+  color: $primary-color;
 }
